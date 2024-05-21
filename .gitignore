@@ -1,4 +1,4 @@
-config.json
+config.jso
 .env
 /.idea
 /.vscode
@@ -63,4 +63,4 @@ typings/
 .yarn-integrity
 
 # Temp ignore 
-config.json
+config.jso
